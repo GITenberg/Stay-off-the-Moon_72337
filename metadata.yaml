@@ -1,0 +1,38 @@
+_repo: Stay-off-the-Moon_72337
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Jones, Raymond F.
+    alias: Jones, Raymond F. (Raymond Fisher)
+    birthdate: 1915
+    deathdate: 1994
+    gutenberg_agent_id: '25386'
+    url: http://www.gutenberg.org/2009/agents/25386
+    wikipedia: http://en.wikipedia.org/wiki/Raymond_F._Jones
+description: ''
+gutenberg_issued: '2023-12-05'
+identifiers:
+  gutenberg: '72337'
+language: en
+pgterms:marc905: 20231119081541jones
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Stay off the Moon!
+url: http://www.gutenberg.org/ebooks/72337

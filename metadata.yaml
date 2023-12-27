@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26786'
     url: http://www.gutenberg.org/2009/agents/26786
     wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: archival
+  image_path: 72337-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, Raymond F.
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25386
     wikipedia: http://en.wikipedia.org/wiki/Raymond_F._Jones
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72337#Stay-off-the-Moon
 gutenberg_issued: '2023-12-05'
 identifiers:
   gutenberg: '72337'
